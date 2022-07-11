@@ -12,8 +12,8 @@
         เช็คข้อมูลเซิฟเวอร์ได้ที่ปุ่มตรงนี้เลยน้าา
         <a>&nbsp;</a>
         <br>
-<a href="https://github.com/PPekKunGz/FriendsCraft-SMP-SS2/blob/main/FriendsCraftSMPInfo.md"><img src="https://img.shields.io/appveyor/build/gruntjs/grunt?label=INFO%20SERVER&style=for-the-badge" alt="Info"/></a>
-<a href="https://github.com/PPekKunGz/FriendsCraft-SMP-SS2/blob/main/FriendsCraftSMPLog.md"><img src="https://img.shields.io/nodeping/uptime/jkiwn052-ntpp-4lbb-8d45-ihew6d9ucoei?label=LAST%20UPDATE&style=for-the-badge" alt="Update"/></a> 
+<a href=""https://www.youtube.com/results?search_query=%23friendscrafthorrorsmp><img src="https://img.shields.io/appveyor/build/gruntjs/grunt?label=INFO%20SERVER&style=for-the-badge" alt="Info"/></a>
+<a href="">https://www.youtube.com/results?search_query=%23friendscrafthorrorsmp<img src="https://img.shields.io/nodeping/uptime/jkiwn052-ntpp-4lbb-8d45-ihew6d9ucoei?label=LAST%20UPDATE&style=for-the-badge" alt="Update"/></a> 
         
   </p>
 </div>
