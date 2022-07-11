@@ -1,0 +1,1 @@
+# FriendsCraft-Horror-SMP
