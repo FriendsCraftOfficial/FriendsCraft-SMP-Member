@@ -92,4 +92,4 @@ Server Infomations | Horror SMP
 </div> 
 
 
-### 🪄 SycerNetwork X ViKOperationsPlusTEAMS🧪
+### 🪄 SycerNetwork X ViKOperationPlus🧪
