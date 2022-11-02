@@ -87,12 +87,8 @@ https://www.facebook.com/realms.th/
     <a>&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a target="_blank" href="https://github.com/LoQqvEe">
   <img src="https://avatars.githubusercontent.com/u/39002153?v=4" align="center" width="10%" />
-    <a>&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a target="_blank" href="https://github.com/SycerNetwork-Inc">
-  <img src="https://cdn.discordapp.com/attachments/889652344202088458/963822631679848479/SycerNetwork.png" align="center" width="10%" />
-</a>
 </a>
 </div> 
 
 
-### 🪄 SycerNetwork X ViKOperationPlus🧪
+### 🪄 PPekKunGz X ViKOperationPlus🧪
