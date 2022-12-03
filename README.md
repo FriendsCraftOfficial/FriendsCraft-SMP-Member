@@ -50,4 +50,8 @@ https://www.facebook.com/realms.th/
 <a target="_blank" href="https://github.com/PPekKunGz">
   <img src="https://avatars.githubusercontent.com/u/54957742?v=4" align="center" width="10%" />
 </a>
+    <a>&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a target="_blank" href="https://github.com/SycerNetwork-Inc">
+  <img src="https://cdn.discordapp.com/attachments/889652344202088458/963822631679848479/SycerNetwork.png" align="center" width="10%" />
+</a>
 </div> 
