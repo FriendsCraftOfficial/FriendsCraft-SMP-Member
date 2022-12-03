@@ -19,20 +19,21 @@ Server Infomations | FriendsCraftSMP Member
 <img src="https://cdn.discordapp.com/emojis/955400481868488734.gif?size=44&quality=lossless" width="30"></h2>
 
 
-* Minecraft Version : 
-* Border : 
-* Server : 
-* Seed : 
+* Minecraft Version : PC: 1.19.2 / BE: 1.19.50 / PE: 1.19.0-1.19.50
+* Border : 50000 Block
+* Server : Crossplatforms
+* Seed : Terralith
 
 ## 🟢 System Information - CPU/RAM 🏡
 สนับสนุนโดย https://panel.realms.in.th
 > โค้ด "friendscraft" รับเครคิตเพิ่มฟรี 50฿ ** เติมเงินขั่นต่ำ 100฿
 https://www.facebook.com/realms.th/
 ```
-🌐 CPU : AMD Ryzen 9 3900x
-🌐 RAM : DDR4
-🌐 M.2 : SSD
-🌐 OS  : Linux amd64:5.14.0-70.17.1.el9_0.x86_64
+🪟: Legend Plan
+🌐 CPU : AMD Ryzen 7 5800X 8-Core Processor. / vCPU10
+🌐 RAM : DDR4 20GB
+🌐 M.2 : NVMe SSD 125GB
+🌐 OS  : Ubuntu 22.04.1 LTS (amd64)
 ```
 ------------------------------------------------------------------
 
