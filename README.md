@@ -32,12 +32,11 @@ Server Infomations | FriendsCraftSMP Member
 🌐 OS  : CentOS Linux
 ```
 ------------------------------------------------------------------
+[Whitelist รอบที่ 1](https://docs.google.com/spreadsheets/d/1VdN3Y7HQCaD6APUy_Ptl4yWnhw5Y2YTGZnwWCqOM0Ms/edit?usp=sharing)
 
 ### Plugin :
 
 ### Server-Side :
-
-
 ------------------------------------------------------------------
 
 # 🗂️ Support Project / Powered By
