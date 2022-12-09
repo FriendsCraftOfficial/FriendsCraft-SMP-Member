@@ -20,23 +20,63 @@ Server Infomations | FriendsCraftSMP Member
 
 
 * Minecraft Version : PC: 1.19.2 / BE: 1.19.50 / PE: 1.19.20-1.19.50
-* Border : 15000 Block
+* Border : 15000 Block //Next Week 30000 BLOCK
 * Server : Crossplatforms
 * Seed : Terralith
 
 ## 🟢 System Information - CPU/RAM 🏡
 ```
+━━━━━━━━ เครื่องที่ 1 DDC ส่วนตัวไม่มีสปอน ━━━━━━━━
 🌐 CPU : Intel(R) Xeon(R) CPU E5-2630 v3 @ 2.40GHz
 🌐 RAM : 12GB
 🌐 M.2 : null
 🌐 OS  : CentOS Linux
+
+━━━━━━━━ เครื่องที่ 2 DDC ส่วนตัวไม่มีสปอน ━━━━━━━━
+🪴 CPU : Intel(R) Xeon(R) Silver 4214 CPU @ 2.20GHz
+🪴 RAM : 32GB
+🪴 M.2 : null
+🪴 OS  : CentOS Linux
+
+━━━━━━━━ เครื่อง Proxy หลัก 1 เครื่อง ━━━━━━━━
+💻 CPU : Intel(R) Xeon(R) CPU E5-2690 v2 @ 3.00GHz
+💻 RAM : DDR3 16GB
+💻 M.2 : SSD 52GB   
+💻 OS  : Linux (amd64) version "5.14.0-70.13.1.el9_0.x86_64" / IBM Corporation
+
+━━━━━━━━ เครื่อง Proxy เล็ก 3 เครื่อง ━━━━━━━━
+🧪 CPU: Intel Xeon E5-2690 v2 @2.90 - 3.60 GHz
+🧪 Firewall: Standard L3/4
+🧪 ประเภทดิสก์: SSD
+🧪 OS: Ubuntu, Debian
 ```
 ------------------------------------------------------------------
 [Whitelist รอบที่ 1](https://docs.google.com/spreadsheets/d/1VdN3Y7HQCaD6APUy_Ptl4yWnhw5Y2YTGZnwWCqOM0Ms/edit?usp=sharing)
 
-### Plugin :
+### 🌍 Datapacks Server
+```
+Customdb-PPek
+Cauldron concrete
+Custom Nether Portals
+Death Coords Improved
+Leather Zombie
+Player Head Drops
+Terralith
+Wandering Trades
+```
 
-### Server-Side :
+### 💙 Plugins Server
+```
+Essentials
+CoreProtect
+floodgate
+GeyserMC
+Gsit
+LuckPerms
+ProtectStones
+Spark
+UltimateAutoRestart
+```
 ------------------------------------------------------------------
 
 # 🗂️ Support Project / Powered By
@@ -47,7 +87,7 @@ Server Infomations | FriendsCraftSMP Member
   <img src="https://avatars.githubusercontent.com/u/54957742?v=4" align="center" width="10%" />
 </a>
     <a>&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a target="_blank" href="https://github.com/SycerNetwork-Inc">
-  <img src="https://cdn.discordapp.com/attachments/889652344202088458/963822631679848479/SycerNetwork.png" align="center" width="10%" />
+<a target="_blank" href="https://github.com/tyxmn">
+  <img src="https://avatars.githubusercontent.com/u/43444421?v=4" align="center" width="10%" />
 </a>
 </div> 
