@@ -32,7 +32,7 @@ Server Infomations | FriendsCraftSMP Member
 🌐 M.2 : null
 🌐 OS  : CentOS Linux
 
-━━━━━━━━ เครื่องที่ 2 DDC ส่วนตัวไม่มีสปอน ━━━━━━━━
+━━━━━━━━ เครื่องที่ 2 DDC ส่วนตัวไม่มีสปอน [ RAM 300GB ] ━━━━━━━━
 🪴 CPU : Intel(R) Xeon(R) Silver 4214 CPU @ 2.20GHz
 🪴 RAM : 32GB
 🪴 M.2 : null
