@@ -38,17 +38,11 @@ Server Infomations | FriendsCraftSMP Member
 🪴 M.2 : null
 🪴 OS  : CentOS Linux
 
-━━━━━━━━ เครื่อง Proxy หลัก 1 เครื่อง ━━━━━━━━
+━━━━━━━━ เครื่อง Proxy หลัก 2 เครื่อง ━━━━━━━━
 💻 CPU : Intel(R) Xeon(R) CPU E5-2690 v2 @ 3.00GHz
 💻 RAM : DDR3 16GB
 💻 M.2 : SSD 52GB   
 💻 OS  : Linux (amd64) version "5.14.0-70.13.1.el9_0.x86_64" / IBM Corporation
-
-━━━━━━━━ เครื่อง Proxy เล็ก 3 เครื่อง ━━━━━━━━
-🧪 CPU: Intel Xeon E5-2690 v2 @2.90 - 3.60 GHz
-🧪 Firewall: Standard L3/4
-🧪 ประเภทดิสก์: SSD
-🧪 OS: Ubuntu, Debian
 ```
 ------------------------------------------------------------------
 [Whitelist รอบที่ 1](https://docs.google.com/spreadsheets/d/1VdN3Y7HQCaD6APUy_Ptl4yWnhw5Y2YTGZnwWCqOM0Ms/edit?usp=sharing)
