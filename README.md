@@ -58,9 +58,10 @@ Server Infomations | FriendsCraftSMP Member
 ซื้อได้ที่นี่เลย!
 ```
 ------------------------------------------------------------------
-[Whitelist รอบที่ 1](https://docs.google.com/spreadsheets/d/1VdN3Y7HQCaD6APUy_Ptl4yWnhw5Y2YTGZnwWCqOM0Ms/edit?usp=sharing)
-
+[Whitelist รอบที่ 1](https://docs.google.com/spreadsheets/d/1VdN3Y7HQCaD6APUy_Ptl4yWnhw5Y2YTGZnwWCqOM0Ms/edit?usp=sharing)<br>
+[Whitelist รอบที่ 2](https://docs.google.com/spreadsheets/d/1kxI8-aIiFNEb2XXRJllrPYloK2CnzNlrY0DjZGZzDWw/edit?usp=sharing)
 ### 🌍 Datapacks Server
+https://www.friendscraftofficial.ml/pages/fscsmp-members
 ```
 Customdb-PPek
 Cauldron concrete
